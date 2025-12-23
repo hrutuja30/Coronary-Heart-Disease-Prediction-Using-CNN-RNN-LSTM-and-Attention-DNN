@@ -1,4 +1,4 @@
-# Coronary-Heart-Disease-Prediction-Using-CNN-RNN-LSTM-and-Attention-DNN
+# Coronary Heart Disease Prediction Using CNN, RNN, LSTM and Attention DNN models
 
 Used Jupyter Notebook
 
